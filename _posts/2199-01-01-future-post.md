@@ -1,11 +1,11 @@
 ---
-title: 'Future Blog Post'
+title: 'Meta-meta-meta learning destroyed the world'
 date: 2199-01-01
 permalink: /posts/2012/08/blog-post-4/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Meta-learning
+  - Artificial intelligence
+  - Meta-learning again
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+This is a BS post just to test. It may be true in 2199 though.
