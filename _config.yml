@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rafael Menelau Oliveirae Cruz"
+title                    : "Rafael Menelau Oliveira e Cruz"
 title_separator          : "-"
-name                     : &name "Rafael Menelau Oliveirae Cruz"
+name                     : &name "Rafael Menelau Oliveira e Cruz"
 description              : &description "Assistant Professor - ÉTS-Montréal"
 url                      : https://menelau.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
