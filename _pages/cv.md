@@ -43,9 +43,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and leadership
-======
-* Finished all souls game
-* Saved earth from multiple alien invasions
-* Cuphead expert
-* LIVIA street figher champion
