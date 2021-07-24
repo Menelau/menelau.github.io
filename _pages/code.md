@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "Code"
+permalink: /code/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+
 DESlib
 =======
 https://github.com/scikit-learn-contrib/DESlib
